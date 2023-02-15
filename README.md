@@ -1,4 +1,3 @@
-# Mercedes---Bootstrap-Web-Page
 
 I made this project to develope my bootstrap skills. What made the project beautiful is of course Mercedes-Benz :)
 
